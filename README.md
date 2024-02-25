@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 love  this!
-golang
+golang  now day
 1.15
 <!---
 ETH1a68/ETH1a68 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
